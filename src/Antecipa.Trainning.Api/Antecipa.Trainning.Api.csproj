@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Antecipa.Trainning.Application\Antecipa.Trainning.Application.csproj" />
+    <ProjectReference Include="..\Antecipa.Trainning.Infrastructure\Antecipa.Trainning.Infrastructure.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,12 @@
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Domain\bin\Debug\netstandard2.0\Antecipa.Trainning.Domain.deps.json
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Domain\bin\Debug\netstandard2.0\Antecipa.Trainning.Domain.dll
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Domain\bin\Debug\netstandard2.0\Antecipa.Trainning.Domain.pdb
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Domain\obj\Debug\netstandard2.0\Antecipa.Trainning.Domain.AssemblyInfoInputs.cache
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Domain\obj\Debug\netstandard2.0\Antecipa.Trainning.Domain.AssemblyInfo.cs
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Domain\obj\Debug\netstandard2.0\Antecipa.Trainning.Domain.dll
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Domain\obj\Debug\netstandard2.0\Antecipa.Trainning.Domain.pdb
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Domain\obj\Debug\netstandard2.0\Antecipa.Trainning.Domain.csproj.CoreCompileInputs.cache
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Domain\obj\Debug\netstandard2.0\Antecipa.Trainning.Domain.csprojAssemblyReference.cache
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Domain\bin\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.dll
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Domain\bin\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.pdb
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Domain\obj\Debug\netstandard2.0\Antecipa.Trainning.Domain.csproj.CopyComplete

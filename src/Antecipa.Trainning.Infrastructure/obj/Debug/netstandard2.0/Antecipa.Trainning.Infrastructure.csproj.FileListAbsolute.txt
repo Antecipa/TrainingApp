@@ -1,0 +1,14 @@
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\bin\Debug\netstandard2.0\Antecipa.Trainning.Infrastructure.deps.json
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\bin\Debug\netstandard2.0\Antecipa.Trainning.Infrastructure.dll
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\bin\Debug\netstandard2.0\Antecipa.Trainning.Infrastructure.pdb
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\bin\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.dll
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\bin\Debug\netstandard2.0\Antecipa.Trainning.Domain.dll
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\bin\Debug\netstandard2.0\Antecipa.Trainning.Domain.pdb
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\bin\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.pdb
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\obj\Debug\netstandard2.0\Antecipa.Trainning.Infrastructure.csprojAssemblyReference.cache
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\obj\Debug\netstandard2.0\Antecipa.Trainning.Infrastructure.AssemblyInfoInputs.cache
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\obj\Debug\netstandard2.0\Antecipa.Trainning.Infrastructure.AssemblyInfo.cs
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\obj\Debug\netstandard2.0\Antecipa.Trainning.Infrastructure.csproj.CoreCompileInputs.cache
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\obj\Debug\netstandard2.0\Antecipa.Trainning.Infrastructure.csproj.CopyComplete
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\obj\Debug\netstandard2.0\Antecipa.Trainning.Infrastructure.dll
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Infrastructure\obj\Debug\netstandard2.0\Antecipa.Trainning.Infrastructure.pdb

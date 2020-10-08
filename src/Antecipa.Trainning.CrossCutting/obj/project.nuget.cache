@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m1NDcGhn36SzG6mX6QjeGMniYanJbHchdZ4xRRg3S1mi9Srh3TJZBYsFStZFtkgOx4hcltqqea5EetPFw8p85Q==",
+  "success": true,
+  "projectFilePath": "X:\\Projects\\Antecipa\\Training\\Antecipa.Trainning.App\\Antecipa.Trainning.CrossCutting\\Antecipa.Trainning.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\michel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

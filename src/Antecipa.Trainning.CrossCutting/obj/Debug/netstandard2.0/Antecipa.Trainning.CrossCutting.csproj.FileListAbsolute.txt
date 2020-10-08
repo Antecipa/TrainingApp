@@ -1,0 +1,8 @@
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.CrossCutting\bin\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.deps.json
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.CrossCutting\bin\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.dll
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.CrossCutting\bin\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.pdb
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.CrossCutting\obj\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.AssemblyInfoInputs.cache
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.CrossCutting\obj\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.AssemblyInfo.cs
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.CrossCutting\obj\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.csproj.CoreCompileInputs.cache
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.CrossCutting\obj\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.dll
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.CrossCutting\obj\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.pdb

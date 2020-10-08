@@ -1,0 +1,14 @@
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\bin\Debug\netstandard2.0\Antecipa.Trainning.Application.deps.json
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\bin\Debug\netstandard2.0\Antecipa.Trainning.Application.dll
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\bin\Debug\netstandard2.0\Antecipa.Trainning.Application.pdb
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\obj\Debug\netstandard2.0\Antecipa.Trainning.Application.csprojAssemblyReference.cache
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\obj\Debug\netstandard2.0\Antecipa.Trainning.Application.AssemblyInfoInputs.cache
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\obj\Debug\netstandard2.0\Antecipa.Trainning.Application.AssemblyInfo.cs
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\obj\Debug\netstandard2.0\Antecipa.Trainning.Application.csproj.CoreCompileInputs.cache
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\obj\Debug\netstandard2.0\Antecipa.Trainning.Application.dll
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\obj\Debug\netstandard2.0\Antecipa.Trainning.Application.pdb
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\bin\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.dll
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\bin\Debug\netstandard2.0\Antecipa.Trainning.Domain.dll
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\bin\Debug\netstandard2.0\Antecipa.Trainning.Domain.pdb
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\bin\Debug\netstandard2.0\Antecipa.Trainning.CrossCutting.pdb
+X:\Projects\Antecipa\Training\Antecipa.Trainning.App\Antecipa.Trainning.Application\obj\Debug\netstandard2.0\Antecipa.Trainning.Application.csproj.CopyComplete
